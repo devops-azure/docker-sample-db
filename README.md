@@ -3,6 +3,7 @@ Docker compose for web(tomcat war) and mysql database
 
 Instructions:
 Install Docker:  https://docs.docker.com/install/ 
+
 Install docker-compose: https://docs.docker.com/compose/install/ 
 
 Run:
