@@ -12,8 +12,10 @@ Access application at IP:Port/tcmc in browser
 
 Stop:
 docker-compose stop db
+
 docker-compose rm -fv db
 
 docker-compose stop web
+
 docker-compose rm -fv web
 
